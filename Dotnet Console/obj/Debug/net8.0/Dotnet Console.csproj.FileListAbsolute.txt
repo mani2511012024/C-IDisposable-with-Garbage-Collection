@@ -1,0 +1,14 @@
+C:\Users\manikandan.krish\Desktop\Dotnet Console\obj\Debug\net8.0\Dotnet Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manikandan.krish\Desktop\Dotnet Console\obj\Debug\net8.0\Dotnet Console.AssemblyInfoInputs.cache
+C:\Users\manikandan.krish\Desktop\Dotnet Console\obj\Debug\net8.0\Dotnet Console.AssemblyInfo.cs
+C:\Users\manikandan.krish\Desktop\Dotnet Console\obj\Debug\net8.0\Dotnet Console.csproj.CoreCompileInputs.cache
+C:\Users\manikandan.krish\Desktop\Dotnet Console\bin\Debug\net8.0\Dotnet Console.exe
+C:\Users\manikandan.krish\Desktop\Dotnet Console\bin\Debug\net8.0\Dotnet Console.deps.json
+C:\Users\manikandan.krish\Desktop\Dotnet Console\bin\Debug\net8.0\Dotnet Console.runtimeconfig.json
+C:\Users\manikandan.krish\Desktop\Dotnet Console\bin\Debug\net8.0\Dotnet Console.dll
+C:\Users\manikandan.krish\Desktop\Dotnet Console\bin\Debug\net8.0\Dotnet Console.pdb
+C:\Users\manikandan.krish\Desktop\Dotnet Console\obj\Debug\net8.0\Dotnet Console.dll
+C:\Users\manikandan.krish\Desktop\Dotnet Console\obj\Debug\net8.0\refint\Dotnet Console.dll
+C:\Users\manikandan.krish\Desktop\Dotnet Console\obj\Debug\net8.0\Dotnet Console.pdb
+C:\Users\manikandan.krish\Desktop\Dotnet Console\obj\Debug\net8.0\Dotnet Console.genruntimeconfig.cache
+C:\Users\manikandan.krish\Desktop\Dotnet Console\obj\Debug\net8.0\ref\Dotnet Console.dll
